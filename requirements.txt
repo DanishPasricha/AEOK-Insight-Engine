@@ -1,0 +1,16 @@
+# K8sAI - ArcGIS Enterprise Architecture Intelligence Platform
+
+# Core LLM
+langchain>=0.3.0,<1.0.0
+langchain-core>=0.3.0,<1.0.0
+langchain-openai>=0.2.0,<1.0.0
+langchain-community>=0.3.0,<1.0.0
+
+# Tavily content extraction
+langchain-tavily>=0.1.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Static architecture diagrams (PNG)
+diagrams>=0.23.0
